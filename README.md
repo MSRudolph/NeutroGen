@@ -16,7 +16,7 @@ The challenge is to place windmills on a field such that they are exposed to the
 
 **Find the Jupyter notebook for the example [here](./demo.ipynb).**
 
-**The brief demo video of our v1 prototype can be found [here](https://drive.google.com/file/d/1L2bbkIDM3PU2Hbj4vv8gPVRdyY5sXhtZ/view?usp=share_link).**
+**The brief demo video of our v1 prototype can be found [here](https://youtu.be/_z96CCOOskE).**
 
 First, we draw 20 random samples and evaluate their cost. Alternatively, we can utilize the optimization history of a conventional optimizer whose solution we want to improve. The samples are converted into a training data distribution via a Softmax function that assigns a higher probability to better-performing samples [2].
 
