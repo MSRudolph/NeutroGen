@@ -5,8 +5,7 @@ This is the GitHub repository for team **NeutroGen** during "The Blaise Pascal [
 
 Our project enables neutral atom quantum computers for generative modeling, with a novel application in combinatorial optimization **without training the quantum model on the quantum computer**.
 
-<video src="https://drive.google.com/file/d/1L2bbkIDM3PU2Hbj4vv8gPVRdyY5sXhtZ/view?usp=share_link" controls="controls" style="max-width: 730px;">
-</video>
+![Demo](https://drive.google.com/file/d/1L2bbkIDM3PU2Hbj4vv8gPVRdyY5sXhtZ/view?usp=share_link)
 
 ## The Approach: Spectral Graph Theory
 <img src="https://github.com/MSRudolph/NeutroGen/blob/main/figures/schematic.png" width="800">
